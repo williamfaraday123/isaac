@@ -1,0 +1,12 @@
+[
+    {
+        "title": "blognews",
+        "description": "A blog news app that allows users to post contents based on categories",
+        "url": "https://blognews-meqc.onrender.com"
+    },
+    {
+        "title": "satnav",
+        "description": "A maps navigation app. Currently working on it",
+        "url": "https://satnav.vercel.app/"
+    }
+]
