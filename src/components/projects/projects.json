@@ -1,12 +1,12 @@
 [
     {
-        "title": "blognews",
-        "description": "A blog news app that allows users to post contents based on categories",
-        "url": "https://blognews-qe1c.onrender.com/"
+        "title": "mytravelblog",
+        "description": "A travel blog app that allows travellers to share experiences and travel tips, and search for posts based on location",
+        "url": "https://mytravelblog.cloud/"
     },
     {
         "title": "satnav",
-        "description": "A maps navigation app. Currently working on it",
+        "description": "A maps navigation app with autocomplete search for a place and GPS routing",
         "url": "https://satnav.vercel.app/"
     }
 ]

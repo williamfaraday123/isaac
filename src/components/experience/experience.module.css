@@ -1,0 +1,31 @@
+/* project.module.css */
+.container {
+    padding: 20px;
+    background-color: var(--card-background-color);
+    color: var(--text-color);
+    border: 1px solid var(--secondary-text-color);
+    border-radius: 10px;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s;
+    display: block; /* Ensures the entire area is clickable */
+}
+
+.container:hover {
+    background-color: var(--primary-color);
+    color: var(--background-color);
+    border-color: var(--primary-color-hover);
+}
+
+.container:hover .description {
+    color: var(--background-color);
+}
+
+.title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 1em;
+    color: var(--secondary-text-color);
+}
