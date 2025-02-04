@@ -2,7 +2,7 @@ const About = () => {
     return (
         <div>
             <h1>About</h1>
-            Aspiring Software Engineer with a strong foundation in full-stack development, database management, and AI. Passionate about building scalable applications and improving user experiences. Seeking opportunities to apply technical skills in a dynamic environment.
+            I am a proactive Computer Science undergraduate in NTU with a strong interest in computing. My academic projects involve developing apps with React, Node.js, Next.js, SQL, and AWS, conducting data analysis with Python and Jupyter Notebook, as well as designing database systems with SQL and no SQL. During my projects I have developed a passion in developing apps to improve the user experience, creating robust data storage systems, and training AI models with complex algorithms. I would love to discuss how my skills can support your company.
         </div>
     );
 };
