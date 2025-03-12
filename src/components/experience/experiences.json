@@ -1,18 +1,10 @@
 [
     {
-        "title": "Founder of mytravelblog",
+        "title": "Software Developer at mytravelblog",
         "description": "A travel blog app that allows travellers to share experiences and travel tips, and search for posts based on location"
     },
     {
-        "title": "Founder of Map My Path",
+        "title": "Software Developer at Map My Path",
         "description": "A map navigation app that allows users to find places based on preferences like town, type of place, price, and rating. It offers features such as filtering results by user criteria, viewing cycling, driving, or walking routes to destinations, and customizing transportation modes."
-    },
-    {
-        "title": "Private tutor",
-        "description": "Home-tutoring secondary school students lower secondary science and upper secondary Physics and Chemistry, lead to improvement in grades from D7 to A1"
-    },
-    {
-        "title": "Waiter at Saizeriya",
-        "description": "Provided customer service by taking orders accurately, serving food and beverages promptly, and ensuring a pleasant dining experience for guests in a fast-paced restaurant environment. Learned teamwork, collaboration, communication skills, problem solving skills in a real world setting"
     }
 ]
