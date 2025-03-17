@@ -1,12 +1,17 @@
 [
     {
+        "title": "IsaacGPT",
+        "description": "Trained a Large Language Model (LLM) using PyTorch training loop and Unsupervised Learning.\n Deployed the LLM using Docker and FastAPI.\n Created a frontend React chat interface using React and integrated the LLM with it",
+        "url": "https://isaac-gpt.vercel.app"
+    },
+    {
         "title": "Map My Path",
-        "description": "A map navigation app that allows users to find places based on preferences like town, type of place, price, and rating. It offers features such as filtering results by user criteria, viewing cycling, driving, or walking routes to destinations, and customizing transportation modes.",
+        "description": "Developed an AI-powered route optimization system for filtered search for a place and routing on a map, leveraging machine learning, React, Leaflet, and REST APIs",
         "url": "https://mapmypath.vercel.app/"
     },
     {
         "title": "mytravelblog",
-        "description": "A travel blog app that allows travellers to share experiences and travel tips, and search for posts based on location",
+        "description": "Created a full-stack web app using React, Next.js, PostgreSQL, and Azure Blob Storage for travel content sharing.",
         "url": "https://mytravelblog.cloud/"
     }
 ]
