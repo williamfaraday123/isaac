@@ -1,14 +1,6 @@
 [
     {
-        "title": "AI developer at IsaacGPT",
-        "description": "Trained a LLM using PyTorch training loop and Unsupervised Learning.\n Deployed the LLM using Docker and FastAPI.\n Created a frontend chat interface using React and integrated the LLM with it"
-    },
-    {
-        "title": "Software Developer at Map My Path",
-        "description": "A map navigation app that allows users to find places based on preferences like town, type of place, price, and rating. It offers features such as filtering results by user criteria, viewing cycling, driving, or walking routes to destinations, and customizing transportation modes. "
-    },
-    {
-        "title": "Software Developer at mytravelblog",
-        "description": "A travel blog app that allows travellers to share experiences and travel tips, and search for posts based on location"
+        "title": "Software Engineer at EL Connect Pte Ltd",
+        "description": "Full Stack Developer\n Node.js, Express.js, MySQL, MongoDB, Laravel, Vue.js, Postman API"
     }
 ]

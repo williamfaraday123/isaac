@@ -8,6 +8,7 @@ const Experience = () => {
             {experiencesJson.map((experience, index) => (
                 <div className={styles.container} key={index}>
                     <h3 className={styles.title}>{experience?.title}</h3>
+                    <p className={styles.date}>{experience?.date}</p>
                     <div className={styles.description}>{experience?.description}</div>
                 </div>
             ))}
